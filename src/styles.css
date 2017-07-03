@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+	color: #757575;
+}
+.btn.btn-secondary{
+	border-color: #ff5252;
+}
+.btn.btn-secondary:hover{
+	background-color: #ff5252;
+	color: white;
+}
+hr{
+	background-color: #ffcdd2;
+}
